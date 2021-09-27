@@ -1,0 +1,35 @@
+{
+  "slug": "RedLine",
+  "name": "RedLine",
+  "version": "1.0.0",
+  "license": "GPL-3",
+  "brand": "RedLine",
+  "author": "Bill Bain",
+  "authorEmail": "Bill.Bain@gmail.com",
+  "authorUrl": "",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "Portamento",
+      "name": "Portamento",
+      "description": "",
+      "tags": []
+    },
+    {
+      "slug": "Quantizer",
+      "name": "Quantizer",
+      "description": "",
+      "tags": []
+    },
+    {
+      "slug": "Arpegiator",
+      "name": "Arpegiator",
+      "description": "",
+      "tags": []
+    }
+  ]
+}
